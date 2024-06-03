@@ -5,20 +5,24 @@ body {
             margin: 0;
             padding: 0;
         }
-        header {
+
+header {
             background-color: #333333;
             padding: 20px;
             text-align: center;
         }
-        header h1 {
+
+header h1 {
             color: #ffcc00;
             margin: 0;
         }
-        nav {
+
+nav {
             background-color: #444444;
             overflow: hidden;
         }
-        nav a {
+
+nav a {
             float: left;
             display: block;
             color: #ffffff;
@@ -26,27 +30,34 @@ body {
             padding: 14px 20px;
             text-decoration: none;
         }
-        nav a:hover {
+
+nav a:hover {
             background-color: #555555;
         }
-        .container {
+
+.container {
             padding: 20px;
         }
-        .description, .about, .events, .testimonials, .faq, .gallery {
+
+.description, .about, .events, .testimonials, .faq, .gallery {
             margin-bottom: 20px;
         }
-        .section {
+
+.section {
             margin-bottom: 20px;
         }
-	h2 {
+
+h2 {
             color: #ffcc00;
             margin-bottom: 10px;
-        }
+   }
 	
-        .section p {
+
+.section p {
             margin-bottom: 10px;
         }
-        .image-placeholder {
+
+.image-placeholder {
             background-color: #333333;
             width: 100%;
             height: 200px;
@@ -56,7 +67,8 @@ body {
             color: #666666;
             margin-bottom: 10px;
         }
-        footer {
+
+footer {
             background-color: #333333;
             padding: 10px;
             text-align: center;
